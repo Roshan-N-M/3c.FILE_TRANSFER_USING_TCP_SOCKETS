@@ -54,6 +54,7 @@ while True:
 ~~~
 ## OUTPUT
 CLIENT
+
 <img width="956" height="231" alt="image" src="https://github.com/user-attachments/assets/264ca255-68d0-4348-9d9b-4b401a0196ad" />
 
 SERVER
